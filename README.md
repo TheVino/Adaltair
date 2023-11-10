@@ -3,4 +3,4 @@ This project is about Adaltair, my first virtual pet made with Arduino (a shame.
 
 
 ![Adaltair](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmcHZhZnk2b2h6eDFsaDV4ZTk2ZG91MjAwdWUzbnB6dDgwYm1qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tMyhyYvtkEncgdwOi/source.gif)
-https://i.imgur.com/F0s8K5N.mp4
+
